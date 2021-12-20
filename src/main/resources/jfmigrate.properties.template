@@ -1,0 +1,5 @@
+jfmigrate.db.dialect=sqlserver
+jfmigrate.db.url=jdbc:sqlserver://localhost:1433;databaseName=demo
+jfmigrate.db.username=sa
+jfmigrate.db.password=Deliverone1
+jfmigrate.db.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver

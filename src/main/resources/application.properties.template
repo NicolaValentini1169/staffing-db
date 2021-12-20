@@ -1,0 +1,9 @@
+####################
+#  CONFIGURATIONS  #
+####################
+spring.main.web-application-type=NONE
+
+#######################
+#  BANNER MIGRATIONS  #
+#######################
+spring.banner.location=classpath:banner.txt
